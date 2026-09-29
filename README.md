@@ -86,8 +86,7 @@ Sales-Data-Analysis/
 ├── README.md
 ├── ecommerce_analysis.ipynb
 ├── ecommmerce_sales_messy.csv
-├── images/
-└── requirements.txt
+├── output.png
 ```
 
 ## Author
