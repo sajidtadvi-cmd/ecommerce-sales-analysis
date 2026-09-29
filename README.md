@@ -57,13 +57,12 @@ The project answers questions such as:
 
 ## Visualizations
 
-## Visualizations
-
 The project includes visualizations for revenue by category, revenue over time, top products, price versus quantity, payment methods, and revenue by city.
 
 ![Sales Analysis Visualizations](output.png)
 
 ## Key Insights
+
 - **Total Orders:** 180
 - **Total Revenue:** ₹4,165,789.17
 - **Average Order Value:** ₹23,143.27
@@ -73,9 +72,10 @@ The project includes visualizations for revenue by category, revenue over time, 
 - **Most Used Payment Method:** UPI (46 orders)
 - **Highest Revenue Month:** March 2025
 - **Lowest Revenue Month:** May 2025
-- **Top Customer:** CUST025
-## Conclusion
+- **Top Customer by Spending:** CUST025
 
+
+## Conclusion
 This project demonstrates the use of Python, Pandas, NumPy, and Matplotlib to clean, analyze, and visualize sales data and extract useful insights from a dataset.
 
 ## Project Structure
