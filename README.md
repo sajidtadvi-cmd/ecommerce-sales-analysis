@@ -61,7 +61,7 @@ The project answers questions such as:
 
 The project includes visualizations for revenue by category, revenue over time, top products, price versus quantity, payment methods, and revenue by city.
 
-![Sales Analysis Visualizations](Graphs.png)
+![Sales Analysis Visualizations](output.png)
 
 ## Key Insights
 - **Total Orders:** 180
