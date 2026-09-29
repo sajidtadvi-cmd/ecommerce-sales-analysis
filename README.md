@@ -67,16 +67,16 @@ The project contains visualizations for:
 6. Revenue by city
 
 ## Key Insights
-
-The analysis identified patterns in:
-
-* Product performance
-* Category revenue
-* Customer spending
-* City-wise revenue
-* Payment preferences
-* Monthly revenue trends
-
+- **Total Orders:** 180
+- **Total Revenue:** ₹4,165,789.17
+- **Average Order Value:** ₹23,143.27
+- **Best Performing Product:** Laptop
+- **Best Performing Category:** Electronics
+- **Best Performing City:** Chennai
+- **Most Used Payment Method:** UPI (46 orders)
+- **Highest Revenue Month:** March 2025
+- **Lowest Revenue Month:** May 2025
+- **Top Customer:** CUST025
 ## Conclusion
 
 This project demonstrates the use of Python, Pandas, NumPy, and Matplotlib to clean, analyze, and visualize sales data and extract useful insights from a dataset.
