@@ -57,14 +57,11 @@ The project answers questions such as:
 
 ## Visualizations
 
-The project contains visualizations for:
+## Visualizations
 
-1. Revenue by category
-2. Revenue over time
-3. Top 10 products
-4. Price vs quantity
-5. Payment method distribution
-6. Revenue by city
+The project includes visualizations for revenue by category, revenue over time, top products, price versus quantity, payment methods, and revenue by city.
+
+![Sales Analysis Visualizations](output.png)
 
 ## Key Insights
 - **Total Orders:** 180
@@ -87,8 +84,8 @@ This project demonstrates the use of Python, Pandas, NumPy, and Matplotlib to cl
 Sales-Data-Analysis/
 │
 ├── README.md
-├── sales_analysis.ipynb
-├── sales_data.csv
+├── ecommerce_analysis.ipynb
+├── ecommmerce_sales_messy.csv
 ├── images/
 └── requirements.txt
 ```
